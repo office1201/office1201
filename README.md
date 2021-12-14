@@ -23,7 +23,7 @@ I am a junior front-end developer from South Korea 🇰🇷. I am interested in 
 
 If you want to contact me, please leave me a message!
 
-### 🌼 Skill Set
+### Skill Set
 <br/>  
 <div align="start">  
 <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -33,7 +33,7 @@ If you want to contact me, please leave me a message!
 <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
 </div>
 
-### 🌼 Github Stats  
+### Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=office1201&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />

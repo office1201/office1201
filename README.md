@@ -1,6 +1,6 @@
 <br/>  
 
-## Hi, I'm Tae hyun Kim🙂  
+## Hi, I'm Tae hyun Kim  
 
 <a href="#" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -17,7 +17,7 @@
   
 ### About Me
 
-Good day!
+Good day🙂
 
 I am a junior front-end developer from South Korea 🇰🇷. I am interested in web services and like to play with UI & UX.
 

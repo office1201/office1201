@@ -17,7 +17,7 @@
   
 ### About Me
 
-Good day..!🙂
+Good day🙂
 
 I am a junior front-end developer from South Korea 🇰🇷. I am interested in web services and like to play with UI & UX.
 
